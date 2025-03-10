@@ -1,0 +1,24 @@
+body {
+    margin: 0%;
+    height: 100vh !important;
+}
+
+.demo-logo-vertical {
+    height: 5vh;
+    margin: 16px;
+    background: rgba(255, 255, 255, .2);
+    border-radius: 6px;
+}
+
+.toggle-button {
+    display: none;
+}
+
+@media (max-width: 992px) {
+    .toggle-button {
+        display: block;
+        position: absolute;
+        left: 16px;
+    }
+
+}
