@@ -1,0 +1,10 @@
+{
+  "name": "Rehob",
+  "theme_color": "#6021f4",
+  "background_color": "#ede7ff",
+  "short_name": "Rehob",
+  "id": "rakrehub2025",
+  "display_override": [
+    "window-controls-overlay"
+  ]
+}

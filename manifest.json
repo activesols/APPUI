@@ -1,0 +1,27 @@
+{
+    "name": "Rehob",
+    "theme_color": "#6021f4",
+    "background_color": "#ede7ff",
+    "short_name": "Rehob",
+    "id": "rakrehub2025",
+    "icons": [
+        {
+            "src": "favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "logo512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "display_override": [
+        "window-controls-overlay"
+    ]
+}
