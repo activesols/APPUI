@@ -1,8 +1,10 @@
 {
     "name": "Rehob",
-    "theme_color": "#6021f4",
-    "background_color": "#ede7ff",
+    "theme_color": "#160246",
+    "background_color": "#c7cafa",
     "short_name": "Rehob",
+    "display": "standalone",
+    "base_url": "/index.html",
     "id": "rakrehub2025",
     "icons": [
         {
